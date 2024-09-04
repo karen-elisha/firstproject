@@ -43,4 +43,5 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 38. [Keyboard shortcuts for Github](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 39. [Complete Git and GitHub Tutorial by Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha)
 40. [Git workflow Cheat Sheet](https://drive.google.com/uc?export=download&id=1QPRh5YmqQm4DFfitelPYlBTWC2I6tTTM)
+41. [Learning GitHub](https://www.linkedin.com/learning/learning-github-18719601/getting-started-with-github)
 Keep adding more links, that you find helpful.
